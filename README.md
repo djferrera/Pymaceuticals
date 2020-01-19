@@ -1,5 +1,5 @@
 # Pymaceuticals
-Columbia Data Analytics Boot Camp: Python and Visualization Assignment
+Columbia Data Analytics Boot Camp: Python and Matplotlib Visualization Assignment
 
 The PyMaceuticals assignment analyzed the effectiveness of multiple, potential cancer treatments on 250 lab mice. The 45-day trial administered and studied nine drugs and one placebo on mice with squamous cell carcinoma (SCC). The presented analysis takes a closer look at three drugs: Capomulin, Infubinol and Ketapril.
 
